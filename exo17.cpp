@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
-    string const score("c/score.txt");
+    string const score("C:\c\score.txt");
     ofstream monFlux(score.c_str());
     if (monFlux)
     {
