@@ -1,0 +1,3 @@
+Je peux ecrire une phrase dans un fichier.
+48.9846
+J'ai 18 ans. Je suis majeur.
